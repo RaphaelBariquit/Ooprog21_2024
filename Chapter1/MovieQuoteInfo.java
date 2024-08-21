@@ -1,7 +1,7 @@
 MovieQuoteInfo.java
 public class MovieQuoteInfo { 
     public static void displayQuoteInfo(){
-        String quote = "I shall return";
+        String quote = "I knew it!";
         String movie = "Avengers";
         String character = "Thor";
         int year = 2012;
