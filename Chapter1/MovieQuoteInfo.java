@@ -1,6 +1,6 @@
 MovieQuoteInfo.java
 public class MovieQuoteInfo { 
-    public static void displayQuoteInfo(){
+    public static void main(String[] args){
         String quote = "I knew it!";
         String movie = "Avengers End Game";
         String character = "Thor";
